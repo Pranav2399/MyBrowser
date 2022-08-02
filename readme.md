@@ -1,2 +1,5 @@
-## My Browser
-- A Browser powered by Python
+# My Browser
+A Browser powered by Python
+
+## Screenshot
+![Alt text](screenshot.png)
