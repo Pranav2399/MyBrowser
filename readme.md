@@ -2,4 +2,4 @@
 A Browser powered by Python
 
 ## Screenshot
-![Alt text](output.png)
+![Screenshot](output.png)
